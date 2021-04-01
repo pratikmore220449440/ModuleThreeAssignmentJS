@@ -1,1 +1,41 @@
-{  "Weired_Products"   : [{    "W_Product_id" : "Wired Product 1",    "W_Product_name": "Squishy poops",    "W_Product_price": "$17.99",    "W_Product_description": "Breathe a sigh of relief because we have the perfect hand gripper for you…\nPresenting YoYa Toys Beadeez Poop Stress Relief Balls!\nYou’ve probably seen fidget balls and spinners when checking out at the pharmacy or grocery store.\nThey’re usually cheap looking and not very fun, even though they may help with stress relief.\nWe wanted to create something that not only felt great to squish and squeeze but make anyone smile at first glance.\nThat’s how these colorful, smiling poop emoticon stress balls were born!\nYoYa Toys Anti-Stress Ball Features:\n\uD83D\uDE1C Includes 3 poop shaped balls in 3 different colors.\n\uD83D\uDE1C Filled with hundreds of kid-safe water beads.\n\uD83D\uDE1C Help relieve stress, anxiety, ADHD, and tension.\n\uD83D\uDE1C Great tool for increased focus and relaxation.\n\uD83D\uDE1C Super durable, they're virtually tear-proof.\n\uD83D\uDE1C Light-hearted conversation starter.\nYou Won’t Find A Better Gift For Kids!\nWhether you’re looking for a stocking stuffer, goody bag swag, or a gift for a kids birthday, these fidget squishy toys are a perfect choice.\nThere’s no loud noises and no assembly. They can start playing with them right out of the box.\nThey’re soft and safe, so you don’t have to worry about hearing loud crying coming from the playroom!\nAdults Love Them Just As Much As Kids!\nKeep one on your desk at work. When the boss is yelling at you or your up to your eyeballs in work, squeeze some poop, and feel a wave of calm come over your body.\nWhen you get home and are unwinding watching some TV, you can squeeze this hand therapy ball.\nThey have a magical way of relaxing you into a deep sleep!\nBuy today and squeeze that stress away!",    "W_Product_url" : "https://images-na.ssl-images-amazon.com/images/I/81pIQVqWt5L._AC_SL1500_.jpg"  },    {      "W_Product_id" : "Wired Product 2",      "W_Product_name": "The Corgi Butt Bottle Opener",      "W_Product_price": "$9.99",      "W_Product_description": "Our Corgi Butt Bottle Opener is a hilarious choice when you’re looking to add a wall mounted opener to your home bar. You can use it to efficiently open bottles when you need a quick laugh. Makes an excellent gift for birthdays, holidays, housewarming parties or just because!",      "W_Product_url" : "https://cdn11.bigcommerce.com/s-iem2p/images/stencil/1280x1280/products/22097/42906/big-mouth-corgi-bottle-opener__98940.1574890632.jpg?c=2"    },    {      "W_Product_id" : "Wired Product 3",      "W_Product_name": "Smoko Potato Light",      "W_Product_price": "$24.00",      "W_Product_description": "Set the mood for a cozy day in with this potato light by Smoko. Emits a soft glow with a trio of brightness levels and touch sensor operation. Rechargeable via USB",      "W_Product_url" : "https://s7d5.scene7.com/is/image/UrbanOutfitters/56248404_020_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=720"    },    {      "W_Product_id" : "Wired Product 4",      "W_Product_name": "GFF Grass Flip Flops",      "W_Product_price": "$26.99",      "W_Product_description": "GFF Grass Flip Flops are the highest quality synthetic grass sandals on the market.\n\nExpress your creativity and unique style with GFF. Great for everyday wear or for an eye-catching adornment at the beach this summer, Grass Flip Flops also make a great gift idea for men, women and kids.\n\nPurchase a pair of flip flops for yourself and the tree-hugger in your life. Trick your toes into feeling the summer vibes with grass in between them!\n\nWe here at Grass Flip Flops are dedicated to deliver well made synthetic grass sandals to each customer. Our synthetic grass flip flops don't just look like amazing green grass, they conform to the wearer's foot to create a natural, plush slice of paradise.\n\nThese smartly crafted flip flops aren't just fake grass sandals, they're more. GFF grass flip flops are made using rich synthetic grass bonded to a pair of classic flip flops with a custom die-cut GFF logo on the bottom of each \"flop\", which leaves the custom \"gff\" everywhere you venture.\n\nAs the old addage goes, \"Take only pictures and memories, leave only footprints\", with grass flip flops, you leave your mark, with the good vibes and community of the Grass Flip Flops grass roots movement behind you.\n\nSliding on a pair of our grass sandals will instantly take the wearer to summer afternoons; the smell of fresh-cut grass in the air as the golden sunset paints the skyscape beautiful.\n\nWe take our beautiful synthetic grass flip flops seriously! We are big fans of green bermuda grass, we only eat grass-fed beef and we want to share our passion with the world with GFF grass flip flops.\n\nWhat we call \"flip flops\" others call a variety of names: sandals, slippers, thongs, or splippas on the islands of Hawaii, USA. We love our customers, everywhere.",      "W_Product_url" : "https://img.buzzfeed.com/buzzfeed-static/static/2019-04/8/14/asset/buzzfeed-prod-web-06/sub-buzz-18145-1554749745-7.jpg?downsize=600:*&output-format=auto&output-quality=auto"    },    {      "W_Product_id" : "Wired Product 5",      "W_Product_name": "BigMouth Inc. The Selfie Sisters Garden Gnome, 9-inch Tall Funny Lawn Gnome Statue, Weatherproof Garden Decoration",      "W_Product_price": "$23.43",      "W_Product_description": "BigMouth Inc. is a boutique designer and manufacturer of outrageous lifestyle products based in Glastonbury, CT. Every item we o\u00ADffer is exclusively designed and manufactured by us. If you are looking for the perfect gift for a friend (or yourself, don’t lie), BigMouth products are always a hit.\n\nSarcastic stemware (that’s fancy-pants for “wine glasses”), ginormous pool floats, twisted garden gnomes, hilarious mugs, manly drinking stuff\u00AD, pranks—we have you covered.",      "W_Product_url" : "https://images-na.ssl-images-amazon.com/images/I/51UuKBtN%2BAL._AC_SL1000_.jpg"    }]}
+{
+  "Weired_Products"   : [{
+    "W_Product_id" : "Wired Product 1",
+    "W_Product_name": "Squishy poops",
+    "W_Product_price": "$17.99",
+    "W_Product_description": "Breathe a sigh of relief because we have the perfect hand gripper for you\n",
+    "W_Product_url" : "https://images-na.ssl-images-amazon.com/images/I/81pIQVqWt5L._AC_SL1500_.jpg"
+
+  },
+    {
+      "W_Product_id" : "Wired Product 2",
+      "W_Product_name": "The Corgi Butt Bottle Opener",
+      "W_Product_price": "$9.99",
+      "W_Product_description": "Our Corgi Butt Bottle Opener is a hilarious choice when you’re looking to add a wall mounted opener to your home bar",
+      "W_Product_url" : "https://cdn11.bigcommerce.com/s-iem2p/images/stencil/1280x1280/products/22097/42906/big-mouth-corgi-bottle-opener__98940.1574890632.jpg?c=2"
+
+    },
+    {
+      "W_Product_id" : "Wired Product 3",
+      "W_Product_name": "Smoko Potato Light",
+      "W_Product_price": "$24.00",
+      "W_Product_description": "Set the mood for a cozy day in with this potato light by Smoko. Emits a soft glow with a trio of brightness levels and touch sensor operation. Rechargeable via USB",
+      "W_Product_url" : "https://s7d5.scene7.com/is/image/UrbanOutfitters/56248404_020_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=720"
+
+    },
+    {
+      "W_Product_id" : "Wired Product 4",
+      "W_Product_name": "GFF Grass Flip Flops",
+      "W_Product_price": "$26.99",
+      "W_Product_description": "GFF Grass Flip Flops are the highest quality synthetic grass sandals on the market.",
+      "W_Product_url" : "https://img.buzzfeed.com/buzzfeed-static/static/2019-04/8/14/asset/buzzfeed-prod-web-06/sub-buzz-18145-1554749745-7.jpg?downsize=600:*&output-format=auto&output-quality=auto"
+
+    },
+    {
+      "W_Product_id" : "Wired Product 5",
+      "W_Product_name": "The Selfie Sisters Garden Gnome",
+      "W_Product_price": "$23.43",
+      "W_Product_description": "BigMouth Inc. is a boutique designer and manufacturer of outrageous lifestyle products based in Glastonbury, CT. ",
+      "W_Product_url" : "https://images-na.ssl-images-amazon.com/images/I/51UuKBtN%2BAL._AC_SL1000_.jpg"
+    }]
+}
